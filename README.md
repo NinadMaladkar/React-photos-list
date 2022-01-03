@@ -4,7 +4,7 @@
 A simple React app to search for random images and it will show the results of those images.
 The list of images will be shown as per the heights of the images.
 
-You can visit the web-app and search for images that you want with [This link](https://video-viewer-and-player.vercel.app)
+You can visit the web-app and search for images that you want with [This link](https://react-photos-list.vercel.app/)
 
 The app looks something like this -
 
